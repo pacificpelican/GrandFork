@@ -5,4 +5,4 @@ page on GitHub: https://github.com/pacificpelican/GrandFork github.com/pacificpe
 -------------------------------------------------
 Information on the theme can be found in the style.css file.
 This theme is a layout for WordPress.  You can install http://wordpress.org for free and then use this free theme by installing it in the /themes/ directory in your wp-content folder.
-This theme should be installed in a subdirectory of /themes/ called /GreenDragon/.  By default GitHub unzips into a more verbose folder name which may also work but this setup may be sub-optimal.
+This theme should be installed in a subdirectory of /themes/ called /GrandFork/.  By default GitHub unzips into a more verbose folder name which may also work but this setup may be sub-optimal.
